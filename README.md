@@ -20,5 +20,7 @@
 ## Installation
 - To install and run the application on your local machine, follow these steps:
 1. Clone the repository to your local machine:
+  git clone https://github.com/<your-username>/employee-management.git
+
 
   
