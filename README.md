@@ -26,6 +26,8 @@
 3. Install the backend dependencies: ./mvnw clean install
 4. Create a PostgreSQL database named employees
 5. Run the backend application:
-6. Navigate to the frontend directory:
+6. Navigate to the frontend directory
+7. Install the frontend dependencies: npm install
+8. Run the frontend application: npm run start
 
   
