@@ -29,5 +29,6 @@
 6. Navigate to the frontend directory
 7. Install the frontend dependencies: npm install
 8. Run the frontend application: npm run start
+9. Open your web browser and navigate to http://localhost:3000.
 
   
