@@ -22,5 +22,6 @@
 1. Clone the repository to your local machine:
   git clone https://github.com/<your-username>/employee-management.git
 
-
+2. Navigate to the project directory: cd employee-management
+3. Install the backend dependencies: ./mvnw clean install
   
