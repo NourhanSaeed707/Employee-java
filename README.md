@@ -24,4 +24,8 @@
 
 2. Navigate to the project directory: cd employee-management
 3. Install the backend dependencies: ./mvnw clean install
+4. Create a PostgreSQL database named employees
+5. Run the backend application:
+6. Navigate to the frontend directory:
+
   
