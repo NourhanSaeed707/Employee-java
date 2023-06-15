@@ -6,4 +6,18 @@
 - View employee details, including performance metrics
 - User-friendly interface with a modern design
 
+## Technologies Used:
+- Java Spring
+- ReactJS
+- PostgreSQL
+- Axios
+- 
+## Getting Started
+# Prerequisites
+- Java 17 
+- Node.js 14.20.0 or higher
+- 
+## Installation
+- To install and run the application on your local machine, follow these steps:
+
   
